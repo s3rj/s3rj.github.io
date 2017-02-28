@@ -1,4 +1,5 @@
- 	var sampleSize = 0;
+ 	
+    var sampleSize = 0;
     var gaussX = 0;
     var popAvg = 5;
     var popSigma = (80/12)/gaussX;
@@ -24,5 +25,12 @@ function onPress(){
 	document.getElementById('z-p-value').innerHTML = zPValue;
 	document.getElementById('t-score').innerHTML = tScore;
 	document.getElementById('t-p-value').innerHTML = tPValue;
-  data=[];
+
+    data=[];
+    if (zPValue>0.95 || zPValue<0.05){
+        alert("Success, you have found a significant result!");
+    }
+    if (tPValue>0.95 || tPValue<0.05){
+        window.alert("Success, you have found a significant result!");
+    }
 }
