@@ -27,10 +27,7 @@ function onPress(){
 	document.getElementById('t-p-value').innerHTML = tPValue;
 
     data=[];
-    if (zPValue>0.95 || zPValue<0.05){
+    if (zPValue>0.95 || zPValue<0.05 || tPValue>0.95 || tPValue<0.05){
         alert("Success, you have found a significant result!");
-    }
-    if (tPValue>0.95 || tPValue<0.05){
-        window.alert("Success, you have found a significant result!");
     }
 }
