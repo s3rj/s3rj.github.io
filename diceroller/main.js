@@ -1,15 +1,13 @@
-
-
-// random //int inclusive 0-9 
+// random int inclusive 0-9
 function getRandomIntInclusive(){
-    min = Math.ceil(1);
-    max = Math.floor(9);
-    return Math.floor(Math.random() * (max - min + 1)) + min;
+ 	min = Math.ceil(1);
+	max = Math.floor(9);
+	return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 // n random ints averaged from above function, 
 // Central Limit Theorem and n samples to achieve aprox. normal/gaussian distribution
 function getRandomIntGauss(n){
-    var sum=0;
+    var sum=1;
     var i = 1 ;
     while (i<=n){
         sum += getRandomIntInclusive();
@@ -21,8 +19,8 @@ function getRandomIntGauss(n){
 function initData(n,values){
     i = 1;
     while (i <=n) {
-//        values.push(Math.random());
-        values.push(getRandomIntGauss(gaussX));
+        values.push(Math.random());
+//        values.push(getRandomIntGauss(gaussX));
         i += 1 ;
     }
     return values;

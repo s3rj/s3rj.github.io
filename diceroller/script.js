@@ -13,8 +13,8 @@
     // var tPValue = 0;
     var sampleSize = 0;
     var gaussX = 0;
-    var popAvg = 5;
-    var popSigma = Math.sqrt(((81-1/12))/gaussX);
+    var popAvg = .5;
+    var popSigma = (1/12)/gaussX;
     var data = [];
     var data1 = initData(sampleSize, data);
     var sampleMean = 0;
@@ -27,9 +27,8 @@
 //on button press
 function onPress(){
 	gaussX = document.getElementById('certainty').value;
-    console.log(gaussX);
 	sampleSize = document.getElementById('samples').value;
-    popSigma = Math.sqrt(((81-1/12))/gaussX);
+	popSigma = Math.sqrt((1/12)/gaussX);
 	data = initData(sampleSize, data);
 	main(data);
 	document.getElementById('sample-mean').innerHTML = sampleMean;
@@ -38,11 +37,9 @@ function onPress(){
 	document.getElementById('z-p-value').innerHTML = zPValue;
 	document.getElementById('t-score').innerHTML = tScore;
 	document.getElementById('t-p-value').innerHTML = tPValue;
-    console.log(document.getElementById('reset').checked);
-    if (document.getElementById('reset').checked==true){
-        data=[];
+
+    data=[];
+    if (zPValue>0.95 || zPValue<0.05 || tPValue>0.95 || tPValue<0.05){
+        alert("Success, you have found a significant result!");
     }
-//    if (zPValue>0.97 || zPValue<0.03 || tPValue>0.97 || tPValue<0.03){
-//        alert("Success, you have found a significant result!");
-//    }
 }
