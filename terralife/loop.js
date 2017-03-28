@@ -1,5 +1,8 @@
 
 
+var textures = [];
+var pixels = [];
+
 function updateGrid(pixels, world, textures) {
 
     for (var y=0; y<world.height; y++) {

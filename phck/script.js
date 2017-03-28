@@ -11,6 +11,7 @@
     // var zPValue = 0;
     // var tScore = 0;
     // var tPValue = 0;
+
     var sampleSize = 0;
     var gaussX = 0;
     var popAvg = 5;
@@ -42,7 +43,7 @@ function onPress(){
     if (document.getElementById('reset').checked==true){
         data=[];
     }
-//    if (zPValue>0.97 || zPValue<0.03 || tPValue>0.97 || tPValue<0.03){
-//        alert("Success, you have found a significant result!");
-//    }
+   if (zPValue>0.97 || zPValue<0.03 || tPValue>0.97 || tPValue<0.03){
+       alert("Success, you have found a significant result!");
+   }
 }
