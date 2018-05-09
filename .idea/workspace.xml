@@ -2,257 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9191e24a-6bca-480b-8b15-b585e1a61694" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capture.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cell_view.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cellular_automaton.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/freelancer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/freelancer.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/brand/bootstrap-outline.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/brand/bootstrap-punchout.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/brand/bootstrap-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/css/docs.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/css/docs.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/css/ie10-viewport-bug-workaround.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/css/src/docs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/css/src/pygments-manni.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/flash/ZeroClipboard.swf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/img/components.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/img/devices.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/img/expo-lyft.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/img/expo-newsweek.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/img/expo-riot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/img/expo-vogue.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/img/sass-less.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/customize.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/docs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/ie-emulation-modes-warning.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/ie10-viewport-bug-workaround.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/ie8-responsive-file-warning.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/raw-files.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/src/application.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/src/customizer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/vendor/Blob.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/vendor/FileSaver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/vendor/ZeroClipboard.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/vendor/anchor.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/vendor/autoprefixer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/vendor/holder.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/vendor/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/vendor/jszip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/vendor/less.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/assets/js/vendor/uglify.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/css/bootstrap-theme.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/dist/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/starter-template.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/untitled.sublime-project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diceroller/untitled.sublime-workspace" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/cabin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/cake.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/circus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/game.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/safe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/science.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/spraypaint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/submarine.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/profilebackup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/contact_me.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/freelancer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/freelancer.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/freelancer.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail/contact_me.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/brand/bootstrap-outline.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/brand/bootstrap-punchout.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/brand/bootstrap-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/css/docs.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/css/docs.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/css/ie10-viewport-bug-workaround.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/css/src/docs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/css/src/pygments-manni.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/flash/ZeroClipboard.swf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/img/components.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/img/devices.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/img/expo-lyft.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/img/expo-newsweek.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/img/expo-riot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/img/expo-vogue.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/img/sass-less.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/customize.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/docs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/ie-emulation-modes-warning.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/ie10-viewport-bug-workaround.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/ie8-responsive-file-warning.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/raw-files.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/src/application.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/src/customizer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/vendor/Blob.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/vendor/FileSaver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/vendor/ZeroClipboard.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/vendor/anchor.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/vendor/autoprefixer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/vendor/holder.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/vendor/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/vendor/jszip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/vendor/less.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/assets/js/vendor/uglify.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/css/bootstrap-theme.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/dist/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/starter-template.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/untitled.sublime-project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phck/untitled.sublime-workspace" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/serjteki.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/brand/bootstrap-outline.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/brand/bootstrap-punchout.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/brand/bootstrap-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/css/docs.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/css/docs.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/css/ie10-viewport-bug-workaround.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/css/src/docs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/css/src/pygments-manni.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/flash/ZeroClipboard.swf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/img/components.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/img/devices.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/img/expo-lyft.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/img/expo-newsweek.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/img/expo-riot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/img/expo-vogue.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/img/sass-less.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/customize.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/docs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/ie-emulation-modes-warning.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/ie10-viewport-bug-workaround.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/ie8-responsive-file-warning.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/raw-files.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/src/application.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/src/customizer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/vendor/Blob.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/vendor/FileSaver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/vendor/ZeroClipboard.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/vendor/anchor.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/vendor/autoprefixer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/vendor/holder.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/vendor/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/vendor/jszip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/vendor/less.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/assets/js/vendor/uglify.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/cellauto.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/dist/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/dist/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/dist/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/dist/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/dist/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/dist/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/dist/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/dist/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/loop.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/render.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/starter-template.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/untitled.sublime-project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terralife/untitled.sublime-workspace" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/screen-reader.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -271,8 +22,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="259">
-                  <caret line="173" column="50" selection-start-line="173" selection-start-column="50" selection-end-line="173" selection-end-column="50" />
+                <state relative-caret-position="474">
+                  <caret line="49" column="80" selection-start-line="49" selection-start-column="80" selection-end-line="49" selection-end-column="80" />
                   <folding>
                     <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -391,12 +142,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525828810512</updated>
       <workItem from="1525828812271" duration="421000" />
-      <workItem from="1525829427486" duration="376000" />
+      <workItem from="1525829427486" duration="645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="797000" />
+    <option name="totallyTimeSpent" value="1066000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="22" width="1655" height="985" extended-state="0" />
@@ -459,8 +210,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="173" column="50" selection-start-line="173" selection-start-column="50" selection-end-line="173" selection-end-column="50" />
+        <state relative-caret-position="474">
+          <caret line="49" column="80" selection-start-line="49" selection-start-column="80" selection-end-line="49" selection-end-column="80" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
