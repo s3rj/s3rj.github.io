@@ -50,3 +50,4 @@ function projectDisplay (data) {
 
 //website progression//
 splashTextInsert();
+
