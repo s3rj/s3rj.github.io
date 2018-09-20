@@ -37,6 +37,12 @@ div .particles #particles-js{
     url('../img/nudl.png') bottom right 10% no-repeat #46B6AC;
 }
 
+#square0{
+    background:
+      url('../img/defense2.png') 90%;
+
+}
+
 #square1{
   background:
     url('../img/nudl.png') ;

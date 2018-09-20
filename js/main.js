@@ -1,6 +1,6 @@
 // getting word variable to use in page
 function splashTextInsert () {
-  var splashWords = ["html ", "css ", "modals ", "APIs ", "javascript ", "jQuery ", "handlebars ", "reactJS ", "responsive", "the grid ", "flexbox ", "mongoDB ", "mySQL ", "git ", "github ", "nodeJS ", "php "];
+  var splashWords = ["html ", "css ", "modals ", "APIs ", "javascript ", "jQuery ", "handlebars ", "reactJS ", "responsive design", "the grid ", "flexbox ", "mongoDB ", "mySQL ", "git ", "github ", "nodeJS ", "matrices"];
   var i = Math.floor(Math.random() * splashWords.length);
   splitWord = splashWords[i].split("");
 
